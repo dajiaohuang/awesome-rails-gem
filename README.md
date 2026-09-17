@@ -132,7 +132,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Sidekiq](https://github.com/mperham/sidekiq) - Simple, efficient background processing for Ruby.
   * [sidetiq](https://github.com/tobiassvn/sidetiq) - Recurring jobs for sidekiq.
   * [sidekiq-cron](https://github.com/ondrejbartas/sidekiq-cron) - Scheduler / Cron for Sidekiq jobs
-  * [sidekiq-scheduler](https://github.com/Moove-it/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq
+  * [sidekiq-scheduler](https://github.com/sidekiq-scheduler/sidekiq-scheduler) - Lightweight job scheduler extension for Sidekiq
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) - Sucker punch is a single-process Ruby asynchronous processing library.
 
 ## View Helper
@@ -182,7 +182,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Coding Style
 * [RuboCop](https://github.com/bbatsov/rubocop) - Rubocop is a Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide).
-* [Rails Best Practice](https://github.com/railsbp/rails_best_practices) - Rails best practice is a code metric tool to check the quality of rails codes.
+* [Rails Best Practice](https://github.com/flyerhzm/rails_best_practices) - Rails best practice is a code metric tool to check the quality of rails codes.
 * [Metric Fu]( https://github.com/metricfu/metric_fu) - A fist full of code metrics
 * [Pronto](https://github.com/mmozuras/pronto) - Quick automated code review of your changes
 
